@@ -1,0 +1,12 @@
+.obisidian
+
+.trash/
+
+.DS_Store
+
+Thumbs.db
+
+node_modules/
+
+.obisidian-git-log.txt
+
