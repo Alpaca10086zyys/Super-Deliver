@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d542b437929620b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14d5518f3a180216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
         "id": "4474e3981052ccd2",
         "type": "tabs",
         "children": [
@@ -31,10 +11,28 @@
             "id": "54b63e43e411d5f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "小象超市测评/小象自营.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小象自营"
+            }
+          },
+          {
+            "id": "ba9531bd064bfa24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小象超市测评/小象自营.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小象自营"
             }
           }
         ]
@@ -180,13 +178,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "72043fa1de4e1b7e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +204,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14d5518f3a180216",
+  "active": "54b63e43e411d5f8",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "1b13eddd-1967-43d6-86cf-26958f058be9.jpeg",
+    "1f106e4b-7129-40d7-b49d-b73789cbf130.jpeg",
+    "小象超市测评/商超品类（其他超市也有的）.md",
+    "1f878f33-75cb-478c-a2e8-e8d79c1401a9.jpeg",
+    "小象超市测评/小象自营.md",
+    "5bdd71d4-f8a5-4c6b-97d1-222fcff344a4.jpeg",
+    "4c72756f-4b15-4a39-82cd-ab1ad64f49d6.jpeg",
+    "a7e2bd34-c201-42a5-9038-5bdb9092c8f3.jpeg",
+    "fe862220-ecec-4ff3-975a-d6eab5bfca41.jpeg",
+    "Untitled",
+    "Welcome.md",
+    "小象超市测评",
+    "Untitled.canvas",
+    "README.md"
   ]
 }
